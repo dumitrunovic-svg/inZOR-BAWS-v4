@@ -1,5 +1,8 @@
 # inZOR-BAWS-v4 — Memory-Safe Warm-Start for Newton-Raphson
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20172440.svg)](https://doi.org/10.5281/zenodo.20172440)
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+
 **Results from the BAWS-v4 residual-based warm-start selector**,
 validated unchanged across four independently implemented benchmark
 families: a 2-D nonlinear CSTR continuation problem, the IEEE 118-bus
@@ -7,8 +10,9 @@ power-flow case, real operator chronics from the L2RPN environment,
 and the four standard PGLib-style IEEE cases (case30, case57, case118,
 case300).
 
-For the full live report and discussion see the web page:
-[`dumitrunovic-svg.github.io/inZOR-ND/tests/baws_v4_warm_start/`](https://dumitrunovic-svg.github.io/inZOR-ND/tests/baws_v4_warm_start/).
+- **Zenodo (this record):** [10.5281/zenodo.20172440](https://doi.org/10.5281/zenodo.20172440) — PDF report + 4 headline figures
+- **Live web report:** [`dumitrunovic-svg.github.io/inZOR-ND/tests/baws_v4_warm_start/`](https://dumitrunovic-svg.github.io/inZOR-ND/tests/baws_v4_warm_start/)
+- **License:** CC BY 4.0
 
 ---
 
